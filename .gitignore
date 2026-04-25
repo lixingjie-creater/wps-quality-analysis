@@ -1,0 +1,17 @@
+# 忽略原始大文件
+焊接记录 -数据分析测试用.xlsx
+clean_data.csv
+
+# 忽略 Jupyter 自动生成的检查点文件夹
+.ipynb_checkpoints/
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略 HTML 导出文件
+李星杰_测试题代码.html
+
+# 李星杰_运行结果明细.xlsx
+
+# 保留示例数据文件（前50行数据.xlsx）
